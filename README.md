@@ -1,0 +1,1 @@
+# close-my-yeelight-when-shutdown
