@@ -1,0 +1,1 @@
+c:/Users/GBOY21/AppData/Local/Programs/Python/Python38/python.exe c:/Users/GBOY21/Desktop/closeYeelight.py
